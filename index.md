@@ -55,6 +55,9 @@ h1{
 ### 2019 Files
 * <a href="files/2019/LabVIEW_Intro.pptx" download="2019 LabVIEW Intro.pptx">Intro slides</a>
 * <a href="files/2019/LabVIEW_Intro.pdf" download="2019 LabVIEW Intro.pdf">Download Intro slides as pdf</a>
+<br/>
+<br/>
+* <a href="files/2019/LabVIEW_Advanced.pptx" download="2019 LabVIEW Advanced.pptx">Advanced slides</a>
 
 ### Other Resources
 <a href="files/VersionControlNotes.pdf" download>Download Notes on Version Control</a>
