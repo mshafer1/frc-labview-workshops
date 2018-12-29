@@ -5,7 +5,7 @@ title: Workshop
 
 
 <style>
-h1{
+h1, h2, h3 {
 	text-align: left;
 }
 </style>
@@ -26,7 +26,7 @@ h1{
 ### Advanced
 
 
-
+* <a href="files/2019/LabVIEW_Advanced.pptx" download="2019 LabVIEW Advanced.pptx">Advanced slides</a>
 
 
 
