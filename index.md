@@ -27,7 +27,7 @@ h1, h2, h3 {
 
 
 * <a href="files/2019/LabVIEW_Advanced.pptx" download="2019 LabVIEW Advanced.pptx">Advanced slides</a>
-
+* <a href="files/2019/LabVIEW_Advanced.pdf" download="2019 LabVIEW Advanced.pdf">Advanced slides as pdf</a>
 
 
 
@@ -58,6 +58,7 @@ h1, h2, h3 {
 <br/>
 <br/>
 * <a href="files/2019/LabVIEW_Advanced.pptx" download="2019 LabVIEW Advanced.pptx">Advanced slides</a>
+* <a href="files/2019/LabVIEW_Advanced.pdf" download="2019 LabVIEW Advanced.pdf">Advanced slides as pdf</a>
 
 ### Other Resources
 <a href="files/VersionControlNotes.pdf" download>Download Notes on Version Control</a>
