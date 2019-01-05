@@ -11,7 +11,7 @@ h1, h2, h3 {
 </style>
 
 
-<a href="files/workshop_slides.pdf" download>Download Workshop ppt as pdf</a>
+<!-- <a href="files/workshop_slides.pdf" download>Download Workshop ppt as pdf</a> -->
 
 ### Intro
 
