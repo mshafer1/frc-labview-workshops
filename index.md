@@ -60,5 +60,11 @@ h1, h2, h3 {
 * <a href="files/2019/LabVIEW_Advanced.pptx" download="2019 LabVIEW Advanced.pptx">Advanced slides</a>
 * <a href="files/2019/LabVIEW_Advanced.pdf" download="2019 LabVIEW Advanced.pdf">Advanced slides as pdf</a>
 
+<br/>
+* <a href="#">Advanced Webinar recoring (coming soon)</a> <!-- download="2019 LabVIEW Advanced.mp4" -->
+* <a href="#">Intro Webinar recoring (coming soon)</a> <!-- download="2019 LabVIEW Intro.mp4" -->
+
+Apologies on not getting these posted today, I found out today that I'm going to have to learn a new video editing software to clip out the things that I can't post because what I use to use is not longer available.
+
 ### Other Resources
 <a href="files/VersionControlNotes.pdf" download>Download Notes on Version Control</a>
