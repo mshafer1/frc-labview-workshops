@@ -17,8 +17,8 @@ h1, h2, h3 {
 
 
 * <a href="http://www.ni.com/getting-started/labview-basics/" target="blank">Introduction to LabVIEW</a>
-* <a href="files/2019/LabVIEW_Intro.pptx" download="2019 LabVIEW Intro.pptx">Intro slides</a>
-* <a href="files/2019/LabVIEW_Intro.pdf" download="2019 LabVIEW Intro.pdf">Download Intro slides as pdf</a>
+* <a href="files/2020/LabVIEW_Intro.pptx" download="2020 LabVIEW Intro.pptx">Intro slides</a>
+* <a href="files/2020/LabVIEW_Intro.pdf" download="2020 LabVIEW Intro.pdf">Download Intro slides as pdf</a>
 
 
 
@@ -26,8 +26,8 @@ h1, h2, h3 {
 ### Advanced
 
 
-* <a href="files/2019/LabVIEW_Advanced.pptx" download="2019 LabVIEW Advanced.pptx">Advanced slides</a>
-* <a href="files/2019/LabVIEW_Advanced.pdf" download="2019 LabVIEW Advanced.pdf">Advanced slides as pdf</a>
+* <a href="files/2020/LabVIEW_Advanced.pptx" download="2020 LabVIEW Advanced.pptx">Advanced slides</a>
+* <a href="files/2020/LabVIEW_Advanced.pdf" download="2020 LabVIEW Advanced.pdf">Advanced slides as pdf</a>
 
 
 
@@ -63,6 +63,18 @@ h1, h2, h3 {
 <br/>
 * <a href="https://youtu.be/pUW0-zLzB24" target="_blank">Advanced Webinar recording</a>
 * <a href="https://youtu.be/qCXtFvTTINY" target="_blank">Intro Webinar recording</a>
+
+### 2020 Files
+* <a href="files/2020/LabVIEW_Intro.pptx" download="2020 LabVIEW Intro.pptx">Intro slides</a>
+* <a href="files/2020/LabVIEW_Intro.pdf" download="2020 LabVIEW Intro.pdf">Download Intro slides as pdf</a>
+<br/>
+<br/>
+* <a href="files/2020/LabVIEW_Advanced.pptx" download="2020 LabVIEW Advanced.pptx">Advanced slides</a>
+* <a href="files/2020/LabVIEW_Advanced.pdf" download="2020 LabVIEW Advanced.pdf">Advanced slides as pdf</a>
+
+<!-- <br/>
+* <a href="#" target="_blank">Advanced Webinar recording</a>
+* <a href="#" target="_blank">Intro Webinar recording</a> -->
 
 ### Other Resources
 <a href="files/VersionControlNotes.pdf" download>Download Notes on Version Control</a>
