@@ -72,9 +72,9 @@ h1, h2, h3 {
 * <a href="files/2020/LabVIEW_Advanced.pptx" download="2020 LabVIEW Advanced.pptx">Advanced slides</a>
 * <a href="files/2020/LabVIEW_Advanced.pdf" download="2020 LabVIEW Advanced.pdf">Advanced slides as pdf</a>
 
-<!-- <br/>
-* <a href="#" target="_blank">Advanced Webinar recording</a>
-* <a href="#" target="_blank">Intro Webinar recording</a> -->
+<br/>
+* <a href="https://www.youtube.com/watch?v=vrRhKJ9wjZE" target="_blank">Intro Webinar recording</a>
+* <a href="https://www.youtube.com/watch?v=Kq92jBZqMN8" target="_blank">Advanced Webinar recording</a>
 
 ### Other Resources
 <a href="files/VersionControlNotes.pdf" download>Download Notes on Version Control</a>
