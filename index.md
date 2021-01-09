@@ -15,7 +15,7 @@ h1, h2, h3 {
 
 ### Intro
 
-
+(2020 slides)
 * <a href="http://www.ni.com/getting-started/labview-basics/" target="blank">Introduction to LabVIEW</a>
 * <a href="files/2020/LabVIEW_Intro.pptx" download="2020 LabVIEW Intro.pptx">Intro slides</a>
 * <a href="files/2020/LabVIEW_Intro.pdf" download="2020 LabVIEW Intro.pdf">Download Intro slides as pdf</a>
@@ -25,7 +25,7 @@ h1, h2, h3 {
 
 ### Advanced
 
-
+(2020 slides)
 * <a href="files/2020/LabVIEW_Advanced.pptx" download="2020 LabVIEW Advanced.pptx">Advanced slides</a>
 * <a href="files/2020/LabVIEW_Advanced.pdf" download="2020 LabVIEW Advanced.pdf">Advanced slides as pdf</a>
 
@@ -75,6 +75,10 @@ h1, h2, h3 {
 <br/>
 * <a href="https://www.youtube.com/watch?v=vrRhKJ9wjZE&list=PLqOsfkjcWT0bSUIjgd71H908LyqW0MN1R" target="_blank">Intro Webinar recording</a>
 * <a href="https://www.youtube.com/watch?v=Kq92jBZqMN8&list=PLqOsfkjcWT0bSUIjgd71H908LyqW0MN1R&index=2" target="_blank">Advanced Webinar recording</a>
+
+
+### 2021 Files
+* <a href="files/2021/LabVIEW_For_FRC.pptx" download="LabVIEW For FRC 2021.pptx">live stream slides</a>
 
 ### Other Resources
 <a href="files/VersionControlNotes.pdf" download>Download Notes on Version Control</a>
